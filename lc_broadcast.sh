@@ -16,8 +16,8 @@ BC_PORT=2000
 # telemetry port (where the server listens for telemetry packets)
 TELEMETRY_PORT=2006
 # server URL
-SERVERURL="support.rossw.net"
-SERVERPAGE="erwintest?"
+SERVERURL="galston500.com"
+SERVERPAGE="lapcount.php?"
 SERVERPORT=80
 #broadcast interval in seconds
 INTERVAL=10
