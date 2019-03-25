@@ -1,2 +1,3 @@
-# LapCounterSvr
-Lap Counter Server
+# Lap Counter Server
+
+Server code for Lap Counter
