@@ -1,4 +1,4 @@
-TARGET = lcread
+TARGET = lapcount
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall
