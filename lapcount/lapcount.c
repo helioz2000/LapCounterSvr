@@ -1,4 +1,8 @@
-// Server side implementation of UDP client-server model
+/*
+ * file: lapcount.c
+ * Lap Count Server implementation
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
